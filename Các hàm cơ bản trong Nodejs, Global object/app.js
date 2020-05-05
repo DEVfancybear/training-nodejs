@@ -1,5 +1,5 @@
 console.log("Hello world"); 
-// Global object là đối tượng toàn cục, cos theer truy 
+// Global object là đối tượng toàn cục
 
 
 setTimeout(()=> {
